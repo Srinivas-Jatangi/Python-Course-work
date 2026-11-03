@@ -1,0 +1,31 @@
+Day 1
+
+Python features :
+
+1. Easy to Learn : Simple syntax that is easy to understand.
+
+2.Easy to read : Code is clear and readable
+
+3.Open Source : Free to use, modify, and distribute
+
+4.Object Oriented : Supports Classes and objects.
+
+5.Cross Platform : Runs on Windows, Linux and macOS
+
+6.Interpreted: Code is executed by the Python runtime.
+
+7.Dynamically Typed: No need to declare variable types explicitly.
+
+8.High-Level: Handles low-level details like memory management.
+
+9.Rich Libraries: Provides many built-in modules and external libraries.
+
+10.Versatile: Used in AI, web development, automation, and data science.
+
+11.Multi-Paradigm: Supports procedural, object-oriented, and functional programming.
+
+12.GUI Support: Allows developers to create graphical applications.
+
+13.Strong Community: Offers extensive learning resources and developer support.
+
+14.Portable and Integrated: Can work across systems and integrate with other languages and technologies

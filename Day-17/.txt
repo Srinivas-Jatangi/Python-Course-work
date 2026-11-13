@@ -1,0 +1,18 @@
+what a function in python 
+
+A function in Python is a block of reusable code that performs a specific task.
+ Instead of writing the same code again and again, you can create a function and call it whenever you need it.
+
+why need a function
+
+Five reasons why we need functions
+Code reusability: Write code once and use it many times.
+
+Save time: Avoid writing the same code repeatedly.
+
+Easy debugging: Find and fix errors easily.
+
+Code readability: Make programs easier to understand.
+
+Code maintenance: Update code in one place instead of many places.
+

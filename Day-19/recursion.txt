@@ -1,0 +1,66 @@
+Write a Python program to find the factorial of a number using recursion.
+
+Write a recursive program to print numbers from 1 to N.
+
+Write a recursive program to print numbers from N to 1.
+
+Write a Python program to find the sum of the first N natural numbers using recursion.
+
+Write a recursive program to find the sum of digits of a number.
+
+Write a recursive program to count the number of digits in an integer.
+
+Write a recursive program to calculate 
+a
+b
+a 
+b
+  (power of a number).
+
+Write a recursive program to find the Nth Fibonacci number.
+
+Write a recursive program to print all even numbers from 1 to N.
+
+Write a recursive program to find the product of digits of a number.
+
+
+Write a recursive program to reverse a number.
+
+Write a recursive program to check whether a number is a palindrome.
+
+Write a recursive program to find the GCD of two numbers.
+
+Write a recursive program to find the LCM of two numbers.
+
+Write a recursive program to find the sum of elements in a list.
+
+Write a recursive program to find the maximum element in a list.
+
+Write a recursive program to find the minimum element in a list.
+
+Write a recursive program to reverse a string.
+
+Write a recursive program to check whether a string is a palindrome.
+
+Write a recursive program to count the occurrences of a given element in a list.
+
+
+Write a recursive program to perform binary search on a sorted list.
+
+Write a recursive program to find the sum of all elements in a nested list.
+
+Write a recursive program to flatten a nested list.
+
+Write a recursive program to generate all permutations of a string.
+
+Write a recursive program to generate all subsets of a list.
+
+Write a recursive program to solve the Tower of Hanoi problem.
+
+Write a recursive program to find all possible paths in a maze.
+
+Write a recursive program to solve the N-Queens problem.
+
+Write a recursive program to generate all valid combinations of balanced parentheses.
+
+Write a recursive program to solve the 0/1 Knapsack problem.

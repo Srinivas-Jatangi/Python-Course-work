@@ -1,0 +1,16 @@
+oops definitions:
+oop is a way of writing programs by using classes and objects
+class: is a blueprint which consists of attributes means it is a container that stores the data and methods means reuseable block of code
+object: means who are using it is called instance of class
+four pillars:
+encapsulation: providing security to data and combining the data into one unit
+inheritance: the process of exacting properties from parent class to chlid class
+polymorphism:   one method can perform different tasks
+data Abstractions: hiding complex things and showing only important things
+types of attributes:
+class
+instances
+methods:
+instance method 
+class method
+static method

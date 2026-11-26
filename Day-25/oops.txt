@@ -14,3 +14,14 @@ methods:
 instance method 
 class method
 static method
+
+constructor -> It is a special kind of method that is called when an object is created
+
+syntax: def _init_(self,(parameters))
+
+
+encapsulation means three
+
+private
+protected
+public
